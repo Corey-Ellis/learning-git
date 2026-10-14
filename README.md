@@ -10,7 +10,7 @@ This repository documents my practice while learning Git and GitHub.
 - Learn branches
 - Practice pull requests
 
-## What Iv'e Learned
+## What I've Learned
 
 ### Git
 Git is a program that tracks changes to a project.
